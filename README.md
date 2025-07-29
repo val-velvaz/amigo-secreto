@@ -20,7 +20,5 @@ Aquí puedes agregar los nombres de tus amigos y dejar que el programa haga la m
 - JavaScript modular (sin variables globales)
 - Uso de DOM para interacción dinámica
 
----
 
-## 📂 Archivos
 
